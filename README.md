@@ -3,7 +3,7 @@
 
 This project is done using thirdweb API and Buildspace projects. 
 It was a wonderful experience developing using their guide!
-
+## Deployed live on - https://doggie-dao.vercel.app/
 ### **Welcome 👋**
 To get started with this project, clone this repo and follow these commands:
 
