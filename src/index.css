@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #000000;
+  color: rgb(216, 209, 0);
   overflow-x: hidden;
 }
 #root {
@@ -55,6 +55,7 @@ h1 {
   align-content: center;
   display: flex;
   text-align: center;
+  
 }
 
 .member-page > div {
@@ -107,7 +108,7 @@ h1 {
 }
 
 .card {
-  background-color: #fff;
+  background-color: rgb(216, 209, 0);
   padding: 1rem;
   border-radius: 1rem;
   color: #000;
@@ -116,8 +117,8 @@ h1 {
 
 button {
   cursor: pointer;
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(216, 209, 0);
+  color: rgb(0, 0, 0);
   border: none;
   font-weight: bold;
   font-family: inherit;
