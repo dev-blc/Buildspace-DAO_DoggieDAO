@@ -51,7 +51,7 @@ const App = () => {
       }
     };
     getAllBalances();
-  }, [hasClaimedNFT,editionDrop.history]);
+  }, [hasClaimedNFT,token.history]);
 
   const memberList = useMemo(() => {
     return memberAddresses.map((address) => {
